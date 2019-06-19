@@ -1,0 +1,18 @@
+﻿  Source.c
+f:\programming\visual programy\alm2_zapocet\alm2_zapocet\source.c(82): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\programming\visual programy\alm2_zapocet\alm2_zapocet\source.c(101): warning C4098: 'RandEveryRand': 'void' function returning a value
+f:\programming\visual programy\alm2_zapocet\alm2_zapocet\source.c(78): warning C4101: 'p': unreferenced local variable
+f:\programming\visual programy\alm2_zapocet\alm2_zapocet\source.c(128): warning C4098: 'bubblesort': 'void' function returning a value
+f:\programming\visual programy\alm2_zapocet\alm2_zapocet\source.c(140): warning C4047: 'function': 'long' differs in levels of indirection from 'long *'
+f:\programming\visual programy\alm2_zapocet\alm2_zapocet\source.c(140): warning C4024: 'InsertBST': different types for formal and actual parameter 2
+f:\programming\visual programy\alm2_zapocet\alm2_zapocet\source.c(288): warning C4047: 'function': 'long *' differs in levels of indirection from 'long *[10000]'
+f:\programming\visual programy\alm2_zapocet\alm2_zapocet\source.c(288): warning C4024: 'RandEveryRand': different types for formal and actual parameter 1
+f:\programming\visual programy\alm2_zapocet\alm2_zapocet\source.c(289): warning C4047: 'function': 'long *' differs in levels of indirection from 'long *[10000]'
+f:\programming\visual programy\alm2_zapocet\alm2_zapocet\source.c(289): warning C4024: 'bubblesort': different types for formal and actual parameter 1
+f:\programming\visual programy\alm2_zapocet\alm2_zapocet\source.c(290): warning C4047: 'function': 'long *' differs in levels of indirection from 'long *[10000]'
+f:\programming\visual programy\alm2_zapocet\alm2_zapocet\source.c(290): warning C4024: 'InsertInTreeAVL': different types for formal and actual parameter 1
+f:\programming\visual programy\alm2_zapocet\alm2_zapocet\source.c(298): warning C4047: 'function': 'long *' differs in levels of indirection from 'long *[10000]'
+f:\programming\visual programy\alm2_zapocet\alm2_zapocet\source.c(298): warning C4024: 'RandEveryRand': different types for formal and actual parameter 1
+f:\programming\visual programy\alm2_zapocet\alm2_zapocet\source.c(300): warning C4047: 'function': 'long *' differs in levels of indirection from 'long *[10000]'
+f:\programming\visual programy\alm2_zapocet\alm2_zapocet\source.c(300): warning C4024: 'InsertInTreeAVL': different types for formal and actual parameter 1
+  ALM2_ZAPOCET.vcxproj -> F:\Programming\Visual programy\ALM2_ZAPOCET\Debug\ALM2_ZAPOCET.exe
